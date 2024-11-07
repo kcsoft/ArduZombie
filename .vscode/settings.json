@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "cstdint": "cpp",
+        "thread": "cpp"
+    }
+}

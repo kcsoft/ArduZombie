@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "programmer": "AVRISP mkII",
+    "port": "/dev/tty.usbmodem1101",
+    "output": "./bin",
+    "sketch": "ArduZombie.ino"
+}
